@@ -1,0 +1,8 @@
+acme_acme_store:
+    resource: "@AcmeAcmeStoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+acme_social_blog:
+    resource: "@AcmeSocialBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
